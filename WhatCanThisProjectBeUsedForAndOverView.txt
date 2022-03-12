@@ -1,7 +1,7 @@
-This project is made of background images that expand when clicked on. 
+This project is a funky loader using 2 triangles.
 
-It uses Flexbox, CSS transitions and JavaScript
+It uses Flexbox, CSS transitions and animation
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- a nice loading feature 
